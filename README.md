@@ -24,9 +24,9 @@ Today I learned
 - プロの代筆屋による心を動かす魔法の文章術 impress QuickBooks
 
 
-https://www.tuyano.com/
-https://paiza.io/ja
-https://dokojava.jp/sources/Main.java
-https://paiza.jp/works/
-https://qiita.com/
-https://jsbin.com/
+- https://www.tuyano.com/
+- https://paiza.io/ja
+- https://dokojava.jp/sources/Main.java
+- https://paiza.jp/works/
+- https://qiita.com/
+- https://jsbin.com/
