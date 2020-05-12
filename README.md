@@ -119,7 +119,6 @@ Today I learnedとして、Githubで既に同様の文化が一部でおこっ�
 -  JavaScriptエンジニアのためのNode.js入門
 -  マンガでわかる 必ず伝わる！ロジカル会話術 (アクションコミックス)
 -  マンガで学ぶITの基礎 合本版 (impress Digital Books)
--  面接官の心を操れ！　無敵の就職心理戦略
 -  伝えて動かす！WEBライティングの教科書
 -  文系のための統計学勉強法
 -  Node.js + Express入門 - JavaScriptとコマンドラインがちょっとわかる人がNode.jsを使うサーバーサイド開発に入門するための本
