@@ -4,8 +4,8 @@
 Today I learnedと称して、日々の学びを書き留めていくためのリポジトリ。  
 
 ## Field I was intrested in
-直接技術に関わるものに限らず、興味のある分野
-[利用した技術書リスト.md](https://github.com/shin1127/TIL/blob/master/%25%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%8A%80%E8%A1%93%E6%9B%B8%E3%83%AA%E3%82%B9%E3%83%88.md)
+直接技術に関わるものに限らず、興味のある分野  
+読んだ本や利用したサイトのリスト→[利用した技術書リスト.md](https://github.com/shin1127/TIL/blob/master/%25%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%8A%80%E8%A1%93%E6%9B%B8%E3%83%AA%E3%82%B9%E3%83%88.md)  
 
  -  Java
  -  Java Servlet
