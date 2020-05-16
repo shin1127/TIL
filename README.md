@@ -11,7 +11,7 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/React/
 
 ## Learning list
 
-[余剰計算%を使わないFizzBuzzをJSで実装した](%を使わないFizzBuzz.md)
+[余剰計算%を使わないFizzBuzzをJSで実装した](%25を使わないFizzBuzz.md)
 
 <!-- 
 
