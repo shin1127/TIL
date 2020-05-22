@@ -8,7 +8,7 @@
 > Accept:text/html
 > メッセージボディ→key=python
 
-> search.pyというパスにkey=pythonという情報を送信している
+> これはsearch.pyというパスにkey=pythonという情報を送信している
 
 key=pythonなんたら〜というのは、
 
