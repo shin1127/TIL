@@ -1,0 +1,8 @@
+PCの中に仮想のPCを作る
+Windows環境でdockerを使ってあれこれする→windowsの中でLinux環境やPythonを立ち上げてあれこれする
+どういう環境か（Linux環境・Python3.8.1とか）という情報はdockerfileとしてまとめられていて、
+Aさんが作ったdockerfileをBさんが受け取ることで、簡単に環境構築できる
+
+チーム開発や環境の共有は強そう→いや個人開発でも強い（環境構築の面で）
+
+dockerfileに書き出すだけで環境を構築できる
