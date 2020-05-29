@@ -30,6 +30,8 @@ connection.connect(function (err) {
 
 // result（第二引数）はクエリ実行内容が格納される
 // fieldはなんやろね　使わない時は第三引数指定しなくてもOK
+```
+
 
 ```
 Connected
