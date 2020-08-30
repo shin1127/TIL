@@ -14,6 +14,7 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 ## Learning list
 
 - HTML
+
   - [CSS の対応箇所の指定](HTML/CSSの対応箇所の指定.md)
   - [HTML5 でバリデーション](HTML/HTML5でバリデーション.md)
   - [HTML 必須タグの記述順](HTML/HTML必須タグの記述順.md)
@@ -22,6 +23,30 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [リセット CSS](HTML/リセットCSS.md)
   - [リンクタグの URL を空欄にしたら](HTML/リンクタグのURLを空欄にしたら.md)
   - [背景をすべて黒にしたいが余白ができる](背景をすべて黒にしたいが余白ができる.md)
+
+- DB
+
+  - [DB でレコードが xx のとき yy にする](DB/DBでレコードがxxのときyyにする.md)
+  - [MySQL でバックアップする](DB/MySQLでバックアップする.md)
+  - [カラムの順番を変えるときの注意](DB/カラムの順番を変えるときの注意.md)
+
+- Algorithm
+
+  - [%を使わない FizzBuzz](Algorithm/%を使わないFizzBuzz.md)
+
+- JavaScript
+
+  - [ECMAScript って何？](JavaScript/ECMAScriptって何？.md)
+  - [JS の for-in と for-of(拡張 for 文)](<JavaScript/JSのfor-inとfor-of(拡張for文).md>)
+  - [JS の比較演算子](JavaScript/JSの比較演算子.md)
+  - [JS の連想配列](JavaScript/JSの連想配列.md)
+  - [const{hoge} このカギカッコ何よ](JavaScript/const{hoge} このカギカッコ何よ.md)
+  - [アロー関数でも引数は指定せよ](JavaScript/アロー関数でも引数は指定せよ.md)
+  - [モーダル表示](JavaScript/モーダル表示.md)
+  - [リストの最後の要素を取得する](JavaScript/リストの最後の要素を取得する.md)
+
+- Linux
+  - [OS ごとの cd..コマンド.md](Linux/OSごとのcd..コマンド.md)
 
 <!--
 
