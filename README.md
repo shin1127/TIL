@@ -46,7 +46,38 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [リストの最後の要素を取得する](JavaScript/リストの最後の要素を取得する.md)
 
 - Linux
+
   - [OS ごとの cd..コマンド.md](Linux/OSごとのcd..コマンド.md)
+
+- NativeApp
+
+  - [儲かるスマホアプリ開発](NativeApp/儲かるスマホアプリ開発.md)
+
+- NodeJS
+
+  - [Express での EJS 参照先](NodeJS/ExpressでのEJS参照先.md)
+  - [Express の app.get ってなに](NodeJS/Expressのapp.getってなに.md)
+  - [NodeJS と MySQL を接続](NodeJS/NodeJSとMySQLを接続.md)
+  - [NodeJS と MySQL を接続](NodeJS/NodeJSとMySQLを接続.md)
+  - [express-session](NodeJS/express-session.md)
+  - [mongoDB と NodeJS の接続](NodeJS/mongoDBとNodeJSの接続.md)
+  - [require_in_JS](NodeJS/require_in_JS.md)
+  - [インクルード方法(EJS)](<NodeJS/インクルード方法(EJS).md>)
+
+- PHP
+
+  - [PHP の echo と print の違い](PHP/PHPのechoとprintの違い.md)
+  - [PHP の歴史](PHP/PHPの歴史.md)
+  - [PHP の特徴](PHP/PHPの特徴.md)
+  - [echo()の仕様](<PHP/echo()の仕様.md>)
+
+- PaaS
+
+  - [herokuCLI エラーログの見方](PaaS/herokuCLIエラーログの見方.md)
+
+- Python
+  - [Python 準予約語 list](Python/Python準予約語list.md)
+  - [for \_ in range(10)の\_って何？](Python/for * in range(10)の*って何？.md)
 
 <!--
 
