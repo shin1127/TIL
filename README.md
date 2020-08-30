@@ -76,8 +76,48 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [herokuCLI エラーログの見方](PaaS/herokuCLIエラーログの見方.md)
 
 - Python
+
   - [Python 準予約語 list](Python/Python準予約語list.md)
-  - [for \_ in range(10)の\_って何？](Python/for * in range(10)の*って何？.md)
+  - [for \_ in range(10)の\_って何？](Python/for \_ in range(10)の\_って何？.md)
+
+- Virtualization
+
+  - [Linux 導入手順](Virtualization/Linux導入手順.md)
+  - [docker を使うと何がうれしいの](Virtualization/dockerを使うと何がうれしいの.md)
+  - [仮想環境とは](Virtualization/仮想環境とは.md)
+
+- Web
+
+  - [Web で成功しつづけるには](Web/Webで成功しつづけるには.md)
+  - [Web デザイナーが Mac 使ってるのなんで？](Web/WebデザイナーがMac使ってるのなんで？.md)
+  - [Web 開発における SQL クエリのありかた](Web/Web開発におけるSQLクエリのありかた.md)
+  - [web 技術](Web/web技術.md)
+  - [カルーセルとスライダー](Web/カルーセルとスライダー.md)
+  - [クエリ文字列って何なの](Web/クエリ文字列って何なの.md)
+  - [マウスオーバーの別の言い方](Web/マウスオーバーの別の言い方.md)
+  - [ユニークなウェブデザイン呼称](Web/ユニークなウェブデザイン呼称.md)
+  - [ルーティングって何なの](Web/ルーティングって何なの.md)
+
+- book
+
+  - [利用した技術書リスト](book/利用した技術書リスト.md)
+
+- common
+
+  - [CLI 上の予測変換](common/CLI上の予測変換.md)
+  - [HP 制作案件をもらった](common/HP制作案件をもらった.md)
+  - [Python と JS どっちがいいの](common/PythonとJSどっちがいいの.md)
+  - [エスケープシーケンス](common/エスケープシーケンス.md)
+  - [エスケープシーケンスって何](common/エスケープシーケンスって何.md)
+  - [エンジニアの「完全に理解した」](common/エンジニアの「完全に理解した」.md)
+  - [ショートカットキーあれこれ(随時更新)](<common/ショートカットキーあれこれ(随時更新).md>)
+  - [再帰関数](common/再帰関数.md)
+  - [書式化演算子](common/書式化演算子.md)
+  - [組み込み系の定義](common/組み込み系の定義.md)
+  - [脱初心者の定義](common/脱初心者の定義.md)
+
+- others
+  - [文章力の向上.md](others/文章力の向上.md)
 
 <!--
 
