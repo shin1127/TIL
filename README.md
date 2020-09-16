@@ -70,6 +70,9 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [PHP の歴史](PHP/PHPの歴史.md)
   - [PHP の特徴](PHP/PHPの特徴.md)
   - [echo()の仕様](<PHP/echo()の仕様.md>)
+  - [queryとprepareの違い](queryとprepareの違い.md)
+  - [XAMPPでドキュメントルートを変更する](XAMPPでドキュメントルートを変更する.md)
+  - [オブジェクトへの読み込みがアロー演算子な理由](オブジェクトへの読み込みがアローな理由.md)
 
 - PaaS
 
