@@ -60,3 +60,29 @@ IP->相手を確認せずにデータを送受信する（高速）
 
 ステートレス（状態を保持しない）、暗号化されない  
 ステートレス->cookie などの技術を使って問題解決
+
+# SSL/TLS
+
+Secure Sockets Layer,  
+Transport Layer Security.
+
+インターネット上で通信を暗号化して、第三者による内容の盗み見、改ざんを防ぐ医術
+
+-> サーバ証明書という仕組みを使ってセキュリティ確保する
+
+## サーバ証明書
+
+サイバートラスト社とかが出してる
+
+> 情報通信先のサーバーのサイト運営組織が実在していることを証明し、Web ブラウザと Web サーバー間（サーバー同士でも可能）で SSL（Secure Socket Layer）/ TLS (Transport Layer Security) 暗号化通信を行うための電子証明書です。
+
+# ポート
+
+ex.  
+HTTP->80 番
+メール->110 番などすでに管理されてるものもある  
+MySQL のポート開放とかもやった気がする
+
+c.f https://www.cybertrust.co.jp/blog/ssl/knowledge/ssl-basics.html
+
+#
