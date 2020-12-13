@@ -6,3 +6,4 @@
 - MaaS (Mobility as a Service)
 - AaaS (Automation as a service)
 - BaaS (Banking as a service)
+- CaaS (Container as a service)
