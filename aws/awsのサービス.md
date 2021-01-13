@@ -13,7 +13,7 @@ Amazon Simple Storage Service
 Amazon Elastic Brock Store  
 S3よりも高速なデータ読み込み、書き出しが可能なブロックストレージサービス
 
-その他：EFS(Amazon Elastic Fule System)
+その他：EFS(Amazon Elastic File System)
 
 # ネットワークサービス
 
