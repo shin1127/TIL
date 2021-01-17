@@ -13,6 +13,46 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 
 ## Learning list
 
+- Algorithm
+
+  - [%を使わない FizzBuzz](Algorithm/%を使わないFizzBuzz.md)
+
+- aws
+
+- book
+
+  - [利用した技術書リスト](book/利用した技術書リスト.md)
+
+- common
+
+  - [CLI 上の予測変換](common/CLI上の予測変換.md)
+  - [HP 制作案件をもらった](common/HP制作案件をもらった.md)
+  - [Python と JS どっちがいいの](common/PythonとJSどっちがいいの.md)
+  - [エスケープシーケンス](common/エスケープシーケンス.md)
+  - [エスケープシーケンスって何](common/エスケープシーケンスって何.md)
+  - [エンジニアの「完全に理解した」](common/エンジニアの「完全に理解した」.md)
+  - [ショートカットキーあれこれ(随時更新)](<common/ショートカットキーあれこれ(随時更新).md>)
+  - [再帰関数](common/再帰関数.md)
+  - [書式化演算子](common/書式化演算子.md)
+  - [組み込み系の定義](common/組み込み系の定義.md)
+  - [脱初心者の定義](common/脱初心者の定義.md)
+
+- DB
+
+  - [DB でレコードが xx のとき yy にする](DB/DBでレコードがxxのときyyにする.md)
+  - [MySQL でバックアップする](DB/MySQLでバックアップする.md)
+  - [カラムの順番を変えるときの注意](DB/カラムの順番を変えるときの注意.md)
+
+- design
+
+- Git
+
+  - [特定の名前のファイルはクローンできない](Git/特定の名前のファイルはクローンできない)
+
+- GitAndGitHub
+
+- hardware
+
 - HTML
 
   - [CSS の対応箇所の指定](HTML/CSSの対応箇所の指定.md)
@@ -24,18 +64,7 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [リンクタグの URL を空欄にしたら](HTML/リンクタグのURLを空欄にしたら.md)
   - [背景をすべて黒にしたいが余白ができる](背景をすべて黒にしたいが余白ができる.md)
 
-- DB
-
-  - [DB でレコードが xx のとき yy にする](DB/DBでレコードがxxのときyyにする.md)
-  - [MySQL でバックアップする](DB/MySQLでバックアップする.md)
-  - [カラムの順番を変えるときの注意](DB/カラムの順番を変えるときの注意.md)
-
-- Git
-  - [特定の名前のファイルはクローンできない](Git/特定の名前のファイルはクローンできない)
-
-- Algorithm
-
-  - [%を使わない FizzBuzz](Algorithm/%を使わないFizzBuzz.md)
+- infrasturacture
 
 - JavaScript
 
@@ -56,6 +85,8 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 
   - [儲かるスマホアプリ開発](NativeApp/儲かるスマホアプリ開発.md)
 
+- network
+
 - NodeJS
 
   - [Express での EJS 参照先](NodeJS/ExpressでのEJS参照先.md)
@@ -67,24 +98,30 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [require_in_JS](NodeJS/require_in_JS.md)
   - [インクルード方法(EJS)](<NodeJS/インクルード方法(EJS).md>)
 
+- others
+
+  - [文章力の向上.md](others/文章力の向上.md)
+
+- PaaS
+
+  - [herokuCLI エラーログの見方](PaaS/herokuCLIエラーログの見方.md)
+
 - PHP
 
   - [PHP の echo と print の違い](PHP/PHPのechoとprintの違い.md)
   - [PHP の歴史](PHP/PHPの歴史.md)
   - [PHP の特徴](PHP/PHPの特徴.md)
   - [echo()の仕様](<PHP/echo()の仕様.md>)
-  - [queryとprepareの違い](PHP/queryとprepareの違い.md)
-  - [XAMPPでドキュメントルートを変更する](PHP/XAMPPでドキュメントルートを変更する.md)
+  - [query と prepare の違い](PHP/queryとprepareの違い.md)
+  - [XAMPP でドキュメントルートを変更する](PHP/XAMPPでドキュメントルートを変更する.md)
   - [オブジェクトへの読み込みがアロー演算子な理由](PHP/オブジェクトへの読み込みがアローな理由.md)
-
-- PaaS
-
-  - [herokuCLI エラーログの見方](PaaS/herokuCLIエラーログの見方.md)
 
 - Python
 
   - [Python 準予約語 list](Python/Python準予約語list.md)
   - [for \_ in range(10)の\_って何？](Python/for \_ in range(10)の\_って何？.md)
+
+- Security
 
 - Virtualization
 
@@ -104,26 +141,7 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
   - [ユニークなウェブデザイン呼称](Web/ユニークなウェブデザイン呼称.md)
   - [ルーティングって何なの](Web/ルーティングって何なの.md)
 
-- book
-
-  - [利用した技術書リスト](book/利用した技術書リスト.md)
-
-- common
-
-  - [CLI 上の予測変換](common/CLI上の予測変換.md)
-  - [HP 制作案件をもらった](common/HP制作案件をもらった.md)
-  - [Python と JS どっちがいいの](common/PythonとJSどっちがいいの.md)
-  - [エスケープシーケンス](common/エスケープシーケンス.md)
-  - [エスケープシーケンスって何](common/エスケープシーケンスって何.md)
-  - [エンジニアの「完全に理解した」](common/エンジニアの「完全に理解した」.md)
-  - [ショートカットキーあれこれ(随時更新)](<common/ショートカットキーあれこれ(随時更新).md>)
-  - [再帰関数](common/再帰関数.md)
-  - [書式化演算子](common/書式化演算子.md)
-  - [組み込み系の定義](common/組み込み系の定義.md)
-  - [脱初心者の定義](common/脱初心者の定義.md)
-
-- others
-  - [文章力の向上.md](others/文章力の向上.md)
+- Windows
 
 <!--
 
