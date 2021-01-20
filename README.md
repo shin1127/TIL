@@ -19,9 +19,26 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 
 - aws
 
+  - [AWS EC2 とは](aws/AWSECとは.md)
+  - [AWS のサービス](aws/awsのサービス.md)
+  - [ELB](aws/ELB.md)
+  - [リージョンとアベイラビリティゾーン](aws/リージョンとアベイラビリティゾーン.md)
+
 - book
 
   - [利用した技術書リスト](book/利用した技術書リスト.md)
+
+- clojure
+
+  - [docstring.md](clojure/docstring.md)
+  - [str は組み込み関数](clojure/strは組み込み関数.md)
+  - [逆ポーランド記法完全に理解した](逆ポーランド記法完全に理解した.md)
+
+- COBOL
+
+  - [COBOL とオープン COBOL の 2 種類があるらしい](COBOL/COBOLとオープンCOBOLの2種類があるらしい.md)
+  - [COBOL の特徴.md](COBOL/COBOLの特徴.md)
+  - [冗長としたコードはまだ続いているのか](冗長としたコードはまだ続いているのか.md)
 
 - common
 
