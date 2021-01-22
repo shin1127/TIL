@@ -30,7 +30,7 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 
 - clojure
 
-  - [docstring.md](clojure/docstring.md)
+  - [docstring](clojure/docstring.md)
   - [str は組み込み関数](clojure/strは組み込み関数.md)
   - [逆ポーランド記法完全に理解した](逆ポーランド記法完全に理解した.md)
 
@@ -62,6 +62,8 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 
 - design
 
+  - [ゲシュタルト心理学](design/ゲシュタルト心理学.md)
+
 - Git
 
   - [特定の名前のファイルはクローンできない](Git/特定の名前のファイルはクローンできない)
@@ -69,6 +71,8 @@ Java/Java Servlet/Python/統計学/機械学習/JavaScript/jQuery/Node.js/Expres
 - GitAndGitHub
 
 - hardware
+
+  - [RAID](hardware/RAID.md)
 
 - HTML
 
