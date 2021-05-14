@@ -1,0 +1,2 @@
+# spanタグで囲った要素の上下余白をとることができない
+display:inline-blockにする
