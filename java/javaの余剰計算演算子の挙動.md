@@ -7,7 +7,7 @@ System.out.println(result);
 // -1
 ```
 
-Javaの%はremとして動作する（被除数の符号に結果が従う）  
+Javaの%はremとして動作する（結果は被除数の符号に従う）  
 
 
 
