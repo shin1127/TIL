@@ -1,0 +1,3 @@
+# yum_updateでno_packages_marked_for_updateと出る
+
+最新化されているのでアップデートする必要のあるものが存在しないということ
