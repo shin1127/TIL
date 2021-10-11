@@ -1,0 +1,3 @@
+# Lambda
+サーバレスのサービス  
+GCPのFirebaseみたいな？？
